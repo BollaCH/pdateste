@@ -108,7 +108,7 @@ img {
 
 @media (max-width: 700px) {
   body {
-    height: auto;
+   
   }
   .btn-box {
     flex-direction: column;
